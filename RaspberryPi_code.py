@@ -12,7 +12,7 @@ import math
 ser=serial.Serial('/dev/ttyACM0',9600)
 
 gmail_user = 'oussamajouini101@gmail.com'
-gmail_password = '232613232613'
+gmail_password = '232613232613'               # no need to try it ! that's not my actual password ;)
 sent_from = gmail_user
 to = 'oussemajouini@ieee.org'
 subject = 'WISY-RACE-RESULT'
